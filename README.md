@@ -15,13 +15,13 @@
 ### 1. Подготовка среды  
 Для выполнения работы был установлен XAMPP. Были запущены модули Apache и MySQL, что позволило развернуть локальный сервер. Проверена доступность сервера по адресу http://localhost.
 
-![Рисунок 1 – Запуск XAMPP](images/xampp.png)
+<img width="825" height="531" alt="Image" src="https://github.com/user-attachments/assets/4041b7eb-4bb1-4a7e-9fab-5888a99c02e4" />
 
 
 ### 2. Создание базы данных  
 С помощью phpMyAdmin была создана база данных с именем `wp_lab2`, которая используется для хранения данных сайта.
 
-![Рисунок 2 – Создание базы данных](images/phpmyadmin.png)
+<img width="939" height="781" alt="Image" src="https://github.com/user-attachments/assets/5b397614-f130-4198-838d-3e1d4e55338d" />
 
 
 ### 3. Установка WordPress  
@@ -34,7 +34,7 @@ WordPress был скачан с официального сайта и разм
 - Пароль: отсутствует  
 - Хост: `127.0.0.1:3307`  
 
-![Рисунок 3 – Установка WordPress](images/install.png)
+<img width="990" height="909" alt="Image" src="https://github.com/user-attachments/assets/ac460900-1b5e-4e32-94d5-72bbce1d065e" />
 
 
 ### 4. Настройка сайта  
@@ -46,7 +46,7 @@ WordPress был скачан с официального сайта и разм
 
 Был выбран формат ссылок **«Название записи»**.
 
-![Рисунок 4 – Настройки сайта](images/settings.png)
+<img width="930" height="894" alt="Image" src="https://github.com/user-attachments/assets/d7ca8369-81e6-4b52-8ad0-0cce32a80ddf" />
 
 
 ### 5. Работа с темами  
@@ -63,7 +63,7 @@ WordPress был скачан с официального сайта и разм
 
 Плагины позволяют расширить функциональность сайта.
 
-![Рисунок 6 – Плагины](images/plugins.png)
+<img width="944" height="512" alt="Image" src="https://github.com/user-attachments/assets/c9a7b853-7337-4885-a4aa-90820bcdef40" />
 
 
 ### 7. Создание контента  
@@ -71,13 +71,13 @@ WordPress был скачан с официального сайта и разм
 #### 7.1 Страница «Контакты»  
 Была создана страница «Контакты», на которую добавлена форма обратной связи с помощью плагина Contact Form 7.
 
-![Рисунок 7 – Страница Контакты](images/contact.png)
+<img width="957" height="1085" alt="Image" src="https://github.com/user-attachments/assets/14ca8a5f-9444-4510-8f21-0b681bf77405" />
 
 
 #### 7.2 Записи  
 Было создано несколько записей, содержащих текст и изображения, что позволило проверить отображение контента на сайте.
 
-![Рисунок 8 – Записи](images/posts.png)
+<img width="871" height="597" alt="Image" src="https://github.com/user-attachments/assets/f829be43-ae96-4e3f-bcf8-a18a4ffb4ee1" />
 
 ##  Ответы на контрольные вопросы  
 
